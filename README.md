@@ -1,4 +1,4 @@
-<img src = "[https://pbs.twimg.com/profile_banners/244965762/1556380520/1500x500](https://media.licdn.com/dms/image/D5616AQFYfdDxP7AsTA/profile-displaybackgroundimage-shrink_350_1400/0/1705492949262?e=1711584000&v=beta&t=VuBKfzgB5Jg8sAcMSJWwMyKpGpJe2jqNCFDKD-WjoQY)" >
+<img src = "https://media.licdn.com/dms/image/D5616AQFYfdDxP7AsTA/profile-displaybackgroundimage-shrink_350_1400/0/1705492949262?e=1711584000&v=beta&t=VuBKfzgB5Jg8sAcMSJWwMyKpGpJe2jqNCFDKD-WjoQY" >
 
 ### Hi, my name is Adelia 🫰
 
